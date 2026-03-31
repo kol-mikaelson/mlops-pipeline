@@ -1,0 +1,14 @@
+artifact_uri: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/9e9a07694232463e9953c74d2a168025/artifacts
+end_time: 1774991003745
+entry_point_name: ''
+experiment_id: '253838126791239286'
+lifecycle_stage: active
+run_id: 9e9a07694232463e9953c74d2a168025
+run_name: serious-hen-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774991000442
+status: 3
+tags: []
+user_id: purandhar

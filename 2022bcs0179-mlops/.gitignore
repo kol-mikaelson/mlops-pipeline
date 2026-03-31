@@ -2,8 +2,6 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .env
-mlruns/
-models/
 data/v1_data.csv
 data/v2_data.csv
 data/raw/

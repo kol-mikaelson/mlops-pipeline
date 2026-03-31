@@ -1,0 +1,10 @@
+artifact_location: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/models/m-ab2a972d2a8c43c1aaee1921394f50e7/artifacts
+creation_timestamp: 1774991006207
+experiment_id: '253838126791239286'
+last_updated_timestamp: 1774991009252
+model_id: m-ab2a972d2a8c43c1aaee1921394f50e7
+model_type: null
+name: model
+source_run_id: 7b1a0b2a3e2e4241b2df2a9d3745a453
+status: 2
+status_message: null

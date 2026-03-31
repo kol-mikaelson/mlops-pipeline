@@ -1,0 +1,14 @@
+artifact_uri: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/7b1a0b2a3e2e4241b2df2a9d3745a453/artifacts
+end_time: 1774991009253
+entry_point_name: ''
+experiment_id: '253838126791239286'
+lifecycle_stage: active
+run_id: 7b1a0b2a3e2e4241b2df2a9d3745a453
+run_name: grandiose-sloth-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774991006171
+status: 3
+tags: []
+user_id: purandhar

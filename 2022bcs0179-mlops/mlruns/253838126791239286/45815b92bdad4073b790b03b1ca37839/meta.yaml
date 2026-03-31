@@ -1,0 +1,14 @@
+artifact_uri: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/45815b92bdad4073b790b03b1ca37839/artifacts
+end_time: 1774991015177
+entry_point_name: ''
+experiment_id: '253838126791239286'
+lifecycle_stage: active
+run_id: 45815b92bdad4073b790b03b1ca37839
+run_name: rambunctious-cat-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774991011918
+status: 3
+tags: []
+user_id: purandhar

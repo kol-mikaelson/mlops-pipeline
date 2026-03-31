@@ -1,0 +1,14 @@
+artifact_uri: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/e034f62a6e004b9dbc931687449b3dab/artifacts
+end_time: 1774990992178
+entry_point_name: ''
+experiment_id: '253838126791239286'
+lifecycle_stage: active
+run_id: e034f62a6e004b9dbc931687449b3dab
+run_name: worried-cod-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774990988971
+status: 3
+tags: []
+user_id: purandhar

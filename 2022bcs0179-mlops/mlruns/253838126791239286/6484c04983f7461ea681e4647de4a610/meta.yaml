@@ -1,0 +1,14 @@
+artifact_uri: /home/purandhar/mlops-pipeline/2022bcs0179-mlops/mlruns/253838126791239286/6484c04983f7461ea681e4647de4a610/artifacts
+end_time: 1774990997821
+entry_point_name: ''
+experiment_id: '253838126791239286'
+lifecycle_stage: active
+run_id: 6484c04983f7461ea681e4647de4a610
+run_name: mercurial-moose-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774990994599
+status: 3
+tags: []
+user_id: purandhar
