@@ -6,5 +6,4 @@ data/v1_data.csv
 data/v2_data.csv
 data/raw/
 metrics.json
-*.pkl
 .venv/
