@@ -1,0 +1,9 @@
+# DVC pipeline hyperparameters
+# Student: Student Name | Roll No: rollno
+
+train:
+  data_version: v2
+  model_type: rf
+  features: petal_length,petal_width
+  hyperparams:
+    n_estimators: 100

@@ -1,0 +1,28 @@
+stages:
+  preprocess:
+    cmd: python src/preprocess.py
+    deps:
+      - data/raw/iris.csv
+    outs:
+      - data/v1_data.csv
+      - data/v2_data.csv
+
+  train:
+    cmd: >
+      python src/train.py
+      --data-version ${train.data_version}
+      --model-type ${train.model_type}
+      --features "${train.features}"
+      --hyperparams '{"n_estimators": ${train.hyperparams.n_estimators}}'
+      --save-model models/best_model.pkl
+    deps:
+      - data/v2_data.csv
+      - src/train.py
+    params:
+      - params.yaml:
+          - train
+    metrics:
+      - metrics.json:
+          cache: false
+    outs:
+      - models/best_model.pkl
