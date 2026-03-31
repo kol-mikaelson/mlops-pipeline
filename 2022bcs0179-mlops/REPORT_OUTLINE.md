@@ -1,7 +1,7 @@
 # MLOps Pipeline Assignment Report
-**Student Name:** Student Name
-**Roll No:** rollno
-**Docker Hub:** dockerhubuser/rollno-mlops
+**Purandhar Reddy:** Purandhar Reddy
+**Roll No:** 2022bcs0179
+**Docker Hub:** dockerhubuser/2022bcs0179-mlops
 
 ---
 
@@ -55,12 +55,12 @@ AWS credentials and Docker Hub tokens are stored as GitHub Secrets and never har
 
 ## 3. Screenshots Required
 
-- [ ] MLflow UI showing all 5 runs in `rollno_experiment`
+- [ ] MLflow UI showing all 5 runs in `2022bcs0179_experiment`
 - [ ] MLflow run detail page for best run (Run 5)
 - [ ] `GET /health` response in terminal or browser
 - [ ] `POST /predict` response with valid input
 - [ ] GitHub Actions workflow run (green)
-- [ ] Docker Hub repository page showing `rollno-mlops:latest`
+- [ ] Docker Hub repository page showing `2022bcs0179-mlops:latest`
 - [ ] DVC DAG (`dvc dag` output)
 
 ---
@@ -69,7 +69,7 @@ AWS credentials and Docker Hub tokens are stored as GitHub Secrets and never har
 
 | Resource | URL |
 |----------|-----|
-| GitHub Repo | `https://github.com/<username>/rollno-mlops` |
-| Docker Hub Image | `https://hub.docker.com/r/dockerhubuser/rollno-mlops` |
+| GitHub Repo | `https://github.com/<username>/2022bcs0179-mlops` |
+| Docker Hub Image | `https://hub.docker.com/r/dockerhubuser/2022bcs0179-mlops` |
 | MLflow UI (local) | `http://localhost:5000` |
 | FastAPI Docs | `http://localhost:8000/docs` |

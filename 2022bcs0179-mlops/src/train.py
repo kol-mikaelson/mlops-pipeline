@@ -1,6 +1,6 @@
 """
 Training script for MLOps pipeline.
-Student: Student Name | Roll No: rollno
+Student: Purandhar Reddy | Roll No: 2022bcs0179
 """
 
 import argparse
@@ -17,8 +17,8 @@ from sklearn.metrics import accuracy_score, f1_score
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 
-STUDENT_NAME = "Student Name"
-ROLL_NO = "rollno"
+STUDENT_NAME = "Purandhar Reddy"
+ROLL_NO = "2022bcs0179"
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 MODELS_DIR = os.path.join(os.path.dirname(__file__), "..", "models")
 

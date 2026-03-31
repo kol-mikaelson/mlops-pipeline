@@ -9,3 +9,4 @@ data/v2_data.csv
 data/raw/
 metrics.json
 *.pkl
+.venv/

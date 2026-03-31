@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # API validation script
-# Student: Student Name | Roll No: rollno
+# Student: Purandhar Reddy | Roll No: 2022bcs0179
 set -euo pipefail
 
 BASE_URL="${API_URL:-http://localhost:8000}"

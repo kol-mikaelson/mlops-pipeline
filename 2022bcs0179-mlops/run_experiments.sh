@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Run all 5 MLflow experiments
-# Student: Student Name | Roll No: rollno
+# Student: Purandhar Reddy | Roll No: 2022bcs0179
 set -euo pipefail
 
 echo "=== Running 5 MLflow Experiments ==="

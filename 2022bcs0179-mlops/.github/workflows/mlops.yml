@@ -8,7 +8,7 @@ on:
 
 env:
   DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
-  IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/rollno-mlops
+  IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/2022bcs0179-mlops
 
 jobs:
   mlops-pipeline:

@@ -1,6 +1,6 @@
 """
 FastAPI inference service for MLOps pipeline.
-Student: Student Name | Roll No: rollno
+Student: Purandhar Reddy | Roll No: 2022bcs0179
 """
 
 import os
@@ -12,8 +12,8 @@ import numpy as np
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
-STUDENT_NAME = "Student Name"
-ROLL_NO = "rollno"
+STUDENT_NAME = "Purandhar Reddy"
+ROLL_NO = "2022bcs0179"
 MODEL_PATH = os.environ.get("MODEL_PATH", os.path.join(os.path.dirname(__file__), "..", "models", "best_model.pkl"))
 
 model = None
