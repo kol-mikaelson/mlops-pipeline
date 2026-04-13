@@ -5,8 +5,12 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+COPY src/ ./src/
 COPY api/ ./api/
-COPY models/ ./models/
+
+RUN python src/train.py
+
+EXPOSE 8000
 
 ENV MODEL_PATH=/app/models/best_model.pkl
 
